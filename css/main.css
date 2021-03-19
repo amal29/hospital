@@ -335,7 +335,7 @@ body {
 }
 
 .social{
-  padding-left: 7%;
+  padding-left: 10%;
 
   font-size: 12px;
 
@@ -343,7 +343,7 @@ body {
 .btnlogin{
   height: 27px;
   font-size: 12px;
-  padding: 2%;
+  padding: 4%;
   
 
   /* padding-bottom: 8%; */
