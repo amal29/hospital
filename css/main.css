@@ -446,12 +446,14 @@ body {
 
 
 .ts2{
-  margin-top: 5%;
+  padding-top: 2%;
   font-size: 14px;
-  padding-right: 8%;
+  padding-right: 3%;
+  padding-left: 5%;
 
 }
 .txt2{
+  top:0%;
   padding-left: 8%;
   padding-right: 14%;
   font-size: 10px;
@@ -459,7 +461,7 @@ body {
 }
 
 .ts3{
-  padding-top: 2%;
+  /* top: 8%; */
   font-size: 14px;
   padding-right: 8%;
 
@@ -472,6 +474,8 @@ body {
 }
 
 .ts4{
+  padding-left: 7%;
+
   margin-top: 3%;
   font-size: 14px;
   padding-right: 8%;
@@ -501,4 +505,5 @@ body {
   font-size: 26px;
 
 }
+
 }
