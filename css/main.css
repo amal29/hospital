@@ -342,8 +342,9 @@ body {
 }
 .btnlogin{
   height: 27px;
-  font-size: 11px;
+  font-size: 12px;
   padding: 4%;
+  width: 50%;
   
 
   /* padding-bottom: 8%; */
