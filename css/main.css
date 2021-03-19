@@ -256,7 +256,8 @@ body {
 }
 
 .r2 {
-  padding-top: 3%;
+  /* padding-top: 3%; */
+  margin-top: 2px;
 }
 
 .ts1 {
@@ -419,13 +420,13 @@ body {
 }
 
 .ourservice{
-  font-size: 35px;
+  font-size: 24px;
 
 }
 
 .ts1{
   font-size: 14px;
-  padding-top: 12%;
+  padding-top: 8%;
   padding-right: 8%;
 
 }
@@ -464,6 +465,7 @@ body {
   /* top: 8%; */
   font-size: 14px;
   padding-right: 8%;
+  /* padding-top: 10%; */
 
 }
 .txt3{
