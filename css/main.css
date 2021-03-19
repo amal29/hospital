@@ -1,0 +1,461 @@
+body {
+  overflow-x: hidden;
+  height: 100%;
+  width: 100%;
+}
+
+.head {
+  background-color: black;
+  height: 60px;
+}
+
+.social .face {
+  background-image: linear-gradient(
+    to bottom,
+    transparent 20%,
+    white 20%,
+    white 93%,
+    transparent 93%
+  );
+  background-size: 68%;
+  background-position: 60% 0;
+  background-repeat: no-repeat;
+  font-size: 30px;
+  color: blue;
+}
+
+.social .twitter {
+  background-image: linear-gradient(
+    to bottom,
+    transparent 20%,
+    white 20%,
+    white 93%,
+    transparent 93%
+  );
+  background-size: 68%;
+  background-position: 60% 0;
+  background-repeat: no-repeat;
+  font-size: 28px;
+  color: rgb(126, 126, 223);
+  text-align: center;
+}
+
+.social .google {
+  background-image: linear-gradient(
+    to bottom,
+    transparent 20%,
+    white 20%,
+    white 93%,
+    transparent 93%
+  );
+  background-size: 76%;
+  background-position: 60% 0;
+  background-repeat: no-repeat;
+  font-size: 28px;
+  color: red;
+  text-align: center;
+}
+
+.social .whatsapp {
+  font-size: 28px;
+  background-image: linear-gradient(
+    to bottom,
+    transparent 20%,
+    green 20%,
+    green 93%,
+    transparent 93%
+  );
+  background-size: 85%;
+  background-position: 60% 0;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.mail {
+  padding-top: 10px;
+  padding-left: 12%;
+}
+
+.no {
+  padding-top: 10px;
+  /* padding-right: 7%; */
+}
+
+.social {
+  padding-top: 10px;
+  padding-left: 13%;
+}
+
+.btn {
+  font-weight: 600;
+}
+
+.btnlogin {
+  padding-top: 10px;
+}
+
+.title {
+  padding-left: 36%;
+  font-size: 40px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  color: rgb(235, 69, 69);
+}
+.m {
+  font-size: 60px;
+  color: rgb(6, 102, 139);
+}
+
+.log_img {
+  padding-top: 12%;
+  transform: rotate(12deg);
+}
+
+.t_log {
+  padding-left: 3%;
+}
+
+@media (min-width: 800px) {
+  .log_img {
+    padding-left: 20%;
+  }
+  .para {
+    text-align: justify;
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 800px) {
+  .ts1 {
+    padding-right: 14%;
+    padding-top: 5%;
+  }
+
+  .ts3 {
+    padding-right: 14%;
+    /* padding-top: %; */
+  }
+
+  .ts4 {
+    padding-top: 3%;
+  }
+
+  .ts2 {
+    padding-top: 5%;
+  }
+  .txt2 {
+    padding-left: 7%;
+    padding-right: 6%;
+  }
+  .head {
+    height: 80px;
+  }
+  .log_img {
+    padding-top: 4%;
+
+    padding-left: 12%;
+  }
+
+  .carousel-caption {
+    right: 4%;
+    bottom: 20%;
+    left: 5%;
+  }
+
+  .des p {
+    text-align: justify;
+  }
+  .btn {
+    font-size: 10px;
+    padding: 4px 8px;
+  }
+
+  .dd {
+    padding-left: 10%;
+    font-size: 15px;
+    padding-bottom: 8%;
+  }
+  .fa-ambulance {
+    margin-top: 3%;
+  }
+  .fa-stethoscope {
+    margin-top: 3%;
+  }
+
+  .qaw img {
+    min-height: 1010px;
+    width: 100px;
+  }
+
+  .stories h5 {
+    padding-right: 12%;
+  }
+  .c1 {
+    padding-left: 20%;
+  }
+  .d1 {
+    padding-top: 2%;
+    padding-left: 20%;
+  }
+}
+.carousel-caption {
+  bottom: 40%;
+  left: 20%;
+}
+
+.about h2 {
+  font-size: 50px;
+  letter-spacing: 2px;
+  font-weight: 400;
+}
+
+.us {
+  font-weight: 700;
+  color: rgb(6, 102, 139);
+}
+.wel {
+  color: rgb(6, 102, 139);
+}
+
+.des p {
+  font-size: 18px;
+}
+
+@media (max-width: 600px) {
+  .log_img {
+    margin-left: 20%;
+  }
+  .black-button {
+    padding: 4px 4px;
+  }
+  #change-image {
+    height: 10vh;
+    width: 80%;
+  }
+
+  .carousel-item img {
+    object-fit: cover;
+    max-height: 400px;
+  }
+  .abtdes {
+    text-align: justify;
+  }
+
+  .inner {
+    top: 5%;
+    /* padding-right: 3%; */
+  }
+
+  .t3 {
+    padding-top: 3%;
+    padding-right: 2%;
+  }
+
+  .txt2 {
+    padding-left: 12%;
+    padding-right: 14%;
+  }
+  .fa-ambulance {
+    margin-top: 2%;
+  }
+
+  .fa-stethoscope {
+    margin-top: 2%;
+  }
+
+  .qaw img {
+    min-height: 1010px;
+    width: 100px;
+  }
+  .ts1 {
+    padding-right: 10%;
+  }
+
+  .ts2 {
+    padding-top: 2%;
+    padding-left: 4%;
+  }
+  .ts3 {
+    padding-right: 10%;
+  }
+
+  .ts4 {
+    padding-top: 2%;
+    padding-left: 6%;
+  }
+
+  .stories h5 {
+    padding-right: 12%;
+  }
+  .c1 {
+    padding-left: 20%;
+  }
+  .d1 {
+    padding-top: 2%;
+    padding-left: 20%;
+  }
+}
+
+.img1 {
+  margin-bottom: 7%;
+  padding-left: 12%;
+}
+
+.para {
+  padding-right: 18%;
+  margin-right: 8%;
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#change-image {
+  /* max-width: 30%; */
+  height: 40vh;
+  object-fit: cover;
+}
+
+.carousel-item img {
+  object-fit: cover;
+  height: 650px;
+  width: 100;
+}
+
+.qaw {
+  /* min-height: 650px; */
+  /* opacity:1.8; */
+  filter: brightness(35%);
+
+  width: 100%;
+}
+
+.ourservice {
+  position: absolute;
+
+  color: white;
+
+  font-size: 55px;
+  font-weight: 400;
+}
+
+.conntent {
+  position: relative;
+}
+.ser {
+  font-weight: 600;
+
+  color: #23b5b9;
+}
+
+.inner {
+  position: absolute;
+  padding-top: 8%;
+  padding-right: 3%;
+}
+
+.t {
+  top: 6%;
+}
+.syn {
+  width: 40%;
+}
+
+.fa-syringe {
+  background: #2bbdc2;
+  padding: 45px;
+  border-radius: 50%;
+  font-size: 24px;
+}
+
+.fa-diagnoses {
+  background: #2bbdc2;
+  padding: 45px;
+  border-radius: 50%;
+  font-size: 24px;
+}
+
+.fa-ambulance {
+  background: #2bbdc2;
+  padding: 45px;
+  border-radius: 50%;
+  font-size: 24px;
+}
+
+.fa-stethoscope {
+  background: #2bbdc2;
+  padding: 45px;
+  border-radius: 50%;
+  font-size: 24px;
+}
+
+.txt1 {
+  /* line-height: 1.9em; */
+  margin-top: 0.7em;
+  /* font-size: 0.9em; */
+  color: #e0dfdf;
+  /* text-align:unset; */
+  /* letter-spacing: 0px; */
+}
+
+.txt2 {
+  /* line-height: 1.9em; */
+  margin-top: 0.7em;
+  /* font-size: 0.9em; */
+  color: #e0dfdf;
+  /* text-align:unset; */
+  /* letter-spacing: 0px; */
+}
+
+.r2 {
+  padding-top: 3%;
+}
+
+.ts1 {
+  color: rgb(235, 69, 69);
+}
+
+.ts2 {
+  color: rgb(235, 69, 69);
+}
+
+.ts3 {
+  color: rgb(235, 69, 69);
+}
+
+.ts4 {
+  color: rgb(235, 69, 69);
+}
+.stories {
+  background-color: #f4f4f4;
+}
+
+.stories h5 {
+  font-size: 45px;
+  font-weight: 450;
+}
+
+.stories .story {
+  color: #119196;
+  font-weight: 600;
+}
+
+.card-text {
+  padding-left: 4px;
+
+  font-size: 20px;
+  color: white;
+  height: 36px;
+}
+
+.card-body {
+  background-color: black;
+}
+.card img {
+  width: 318px;
+  height: 280px;
+}
+.volu {
+  color: #2bbdc2;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 500;
+}
