@@ -73,7 +73,7 @@ body {
 
 .mail {
   padding-top: 10px;
-  padding-left: 23%;
+  padding-left: 22%;
 }
 
 .no {
@@ -486,8 +486,6 @@ body {
   }
 }
 
-
-
 @media (max-width: 600px) {
   .log_img {
     margin-left: 20%;
@@ -562,8 +560,6 @@ body {
     padding-left: 20%;
   }
 }
-
-
 
 @media (min-width: 800px) {
   .log_img {
