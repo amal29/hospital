@@ -356,9 +356,12 @@ body {
   .m {
     font-size: 35px;
   }
-  
+  .logimg img {
+    padding-bottom: 3px;
+    padding-left: 8%;
+  }
   .log_img {
-
+    
     width: 30px;
   }
   .about h2 {
