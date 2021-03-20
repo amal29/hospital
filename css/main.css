@@ -111,6 +111,8 @@ body {
   padding-top: 12%;
   transform: rotate(12deg);
   padding-left: 22%;
+  width: 75px;
+  padding-top: 18%;
 }
 
 .t_log {
@@ -356,13 +358,13 @@ body {
   .m {
     font-size: 35px;
   }
-  .logimg img {
-    padding-bottom: 3px;
-    padding-left: 20%;
-  }
+.logimg{
+  padding-left: 5%;
+}
   .log_img {
-    
-    width: 55px;
+    padding-top: 5%;
+    width: 65px;
+
   }
   .about h2 {
     font-size: 35px;
